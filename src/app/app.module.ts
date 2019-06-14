@@ -8,6 +8,8 @@ import { MainComponent } from './main/main.component';
 import { NavComponent } from './main/nav/nav.component';
 import { NormatividadComponent } from './main/normatividad/normatividad.component';
 import { InicioComponent } from './main/inicio/inicio.component';
+import { CarrucelComponent } from './main/carrucel/carrucel.component';
+import { ContratosComponent } from './main/contratos/contratos.component';
 
 
 
@@ -18,7 +20,9 @@ import { InicioComponent } from './main/inicio/inicio.component';
     MainComponent,
     NavComponent,
     NormatividadComponent,
-    InicioComponent
+    InicioComponent,
+    CarrucelComponent,
+    ContratosComponent
   ],
   imports: [
     BrowserModule,
