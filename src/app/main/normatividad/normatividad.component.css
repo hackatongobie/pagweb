@@ -1,0 +1,9 @@
+.size-i{
+   height: 80px;
+    border-radius: 60px;
+    display: flex
+    
+}
+.btn{
+    justify-content: center
+}
