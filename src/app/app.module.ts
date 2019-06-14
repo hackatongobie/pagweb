@@ -4,7 +4,6 @@ import { AppComponent } from './app.component';
 import { MDBBootstrapModule } from 'angular-bootstrap-md';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { AppRoutingModule } from  './app-routing.module';
-import { MailComponent } from './mail/mail.component';
 import { MainComponent } from './main/main.component';
 import { NavComponent } from './main/nav/nav.component';
 
@@ -14,7 +13,6 @@ import { NavComponent } from './main/nav/nav.component';
 @NgModule({
   declarations: [
     AppComponent,
-    MailComponent,
     MainComponent,
     NavComponent
   ],
