@@ -11,6 +11,7 @@ import { InicioComponent } from './main/inicio/inicio.component';
 import { CarrucelComponent } from './main/carrucel/carrucel.component';
 import { ContratosComponent } from './main/contratos/contratos.component';
 import { ProgramasComponent } from './main/programas/programas.component';
+import { ProcedimientosComponent } from './main/procedimientos/procedimientos.component';
 
 
 
@@ -24,7 +25,8 @@ import { ProgramasComponent } from './main/programas/programas.component';
     InicioComponent,
     CarrucelComponent,
     ContratosComponent,
-    ProgramasComponent
+    ProgramasComponent,
+    ProcedimientosComponent
   ],
   imports: [
     BrowserModule,
