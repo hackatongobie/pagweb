@@ -7,6 +7,7 @@ import { ProgramasComponent } from './main/programas/programas.component';
 import { ProvedoresComponent } from './main/provedores/provedores.component';
 import { InformacionComponent } from './main/informacion/informacion.component';
 import { ProcedimintoComponent } from './main/procediminto/procediminto.component';
+import { GraficasComponent } from './main/graficas/graficas.component';
 
 const routes: Routes = [
  {path:'', component:InicioComponent},
@@ -15,7 +16,8 @@ const routes: Routes = [
  {path:'programas',component:ProgramasComponent},
  {path:'procediminto',component:ProcedimintoComponent},
  {path:'provedores',component:ProvedoresComponent},
- {path:'informacion',component:InformacionComponent}
+ {path:'informacion',component:InformacionComponent},
+ {path:'contratos/graficas',component:GraficasComponent}
 
 ];
 

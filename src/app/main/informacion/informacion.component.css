@@ -1,0 +1,29 @@
+.space{
+    padding-top: 80px;
+}
+
+.marg{
+    max-width: 50%;
+    margin :auto;
+    margin-bottom: 15px;
+}
+.text-cv{
+   margin: auto;
+   margin-bottom: 5px;
+   font-family: unset;
+}
+
+.btn-i{
+    margin: auto;
+    margin-top: 8px;
+    width:50%; left:0;
+
+}
+.btn-2{
+    position: relative;
+    width:50%; left:0;
+    text-align:center;
+    margin:auto;
+    margin-top: 8px;
+    
+}
