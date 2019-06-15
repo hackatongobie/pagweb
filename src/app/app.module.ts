@@ -15,6 +15,7 @@ import { ProgramasComponent } from './main/programas/programas.component';
 import { ProcedimintoComponent } from './main/procediminto/procediminto.component';
 import { ProvedoresComponent } from './main/provedores/provedores.component';
 import { InformacionComponent } from './main/informacion/informacion.component';
+import { FooterComponent } from './main/footer/footer.component';
 
 
 
@@ -35,7 +36,8 @@ import { InformacionComponent } from './main/informacion/informacion.component';
 
     ProcedimintoComponent,
     ProvedoresComponent,
-    InformacionComponent
+    InformacionComponent,
+    FooterComponent
 
   
   ],
