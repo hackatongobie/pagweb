@@ -11,9 +11,13 @@ import { InicioComponent } from './main/inicio/inicio.component';
 import { CarrucelComponent } from './main/carrucel/carrucel.component';
 import { ContratosComponent } from './main/contratos/contratos.component';
 import { ProgramasComponent } from './main/programas/programas.component';
+
 import { ProcedimintoComponent } from './main/procediminto/procediminto.component';
 import { ProvedoresComponent } from './main/provedores/provedores.component';
 import { InformacionComponent } from './main/informacion/informacion.component';
+
+
+
 
 
 
@@ -28,9 +32,12 @@ import { InformacionComponent } from './main/informacion/informacion.component';
     CarrucelComponent,
     ContratosComponent,
     ProgramasComponent,
+
     ProcedimintoComponent,
     ProvedoresComponent,
     InformacionComponent
+
+  
   ],
   imports: [
     BrowserModule,
