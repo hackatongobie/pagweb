@@ -10,6 +10,7 @@ import { NormatividadComponent } from './main/normatividad/normatividad.componen
 import { InicioComponent } from './main/inicio/inicio.component';
 import { CarrucelComponent } from './main/carrucel/carrucel.component';
 import { ContratosComponent } from './main/contratos/contratos.component';
+import { ProgramasComponent } from './main/programas/programas.component';
 
 
 
@@ -22,7 +23,8 @@ import { ContratosComponent } from './main/contratos/contratos.component';
     NormatividadComponent,
     InicioComponent,
     CarrucelComponent,
-    ContratosComponent
+    ContratosComponent,
+    ProgramasComponent
   ],
   imports: [
     BrowserModule,
