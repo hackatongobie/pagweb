@@ -6,13 +6,14 @@ import { ContratosComponent } from './main/contratos/contratos.component';
 import { ProgramasComponent } from './main/programas/programas.component';
 import { ProvedoresComponent } from './main/provedores/provedores.component';
 import { InformacionComponent } from './main/informacion/informacion.component';
+import { ProcedimintoComponent } from './main/procediminto/procediminto.component';
 
 const routes: Routes = [
  {path:'', component:InicioComponent},
  {path:'normatividad', component:NormatividadComponent},
  {path:'contratos' ,component:ContratosComponent},
  {path:'programas',component:ProgramasComponent},
- {path:'procediminto',component:ProgramasComponent},
+ {path:'procediminto',component:ProcedimintoComponent},
  {path:'provedores',component:ProvedoresComponent},
  {path:'informacion',component:InformacionComponent}
 
