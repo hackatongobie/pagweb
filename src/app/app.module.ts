@@ -16,6 +16,7 @@ import { ProcedimintoComponent } from './main/procediminto/procediminto.componen
 import { ProvedoresComponent } from './main/provedores/provedores.component';
 import { InformacionComponent } from './main/informacion/informacion.component';
 import { FooterComponent } from './main/footer/footer.component';
+import { GraficasComponent } from './main/graficas/graficas.component';
 
 
 
@@ -37,7 +38,8 @@ import { FooterComponent } from './main/footer/footer.component';
     ProcedimintoComponent,
     ProvedoresComponent,
     InformacionComponent,
-    FooterComponent
+    FooterComponent,
+    GraficasComponent
 
   
   ],
