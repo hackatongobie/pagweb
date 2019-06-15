@@ -8,6 +8,7 @@
 }
 .size{
     font-size: 50px;
+    padding-top: 15px;
   
 }
 
@@ -17,5 +18,47 @@
 
 }
 .lo{
-    
+    height: 300px;
+    margin-left: 40px;
 }
+.text-principal{
+  
+    text-align: center; 
+    font-family: Arial Black; 
+    font-weight: bold; 
+    font-size: 30px; 
+    color: black; 
+
+}
+.text-pricipald{
+    text-align: center; 
+    font-family: Arial black; 
+    font-weight:bold; 
+    font-size: 30px; 
+    color: black; 
+}
+
+.text-s{
+    font-size: 70px;
+    padding-top: 10px;
+}
+
+/* Por debajo de 700px */
+
+    @media screen and (max-width: 700px){
+        .text-principal{
+        font-size:20px;
+        }
+        .text-s{
+        font-size:22px;
+        }
+        }
+        /* Por debajo de 400px */
+        @media screen and (max-width: 400px){
+        .text-pricipal{
+        font-size:20px;
+        }
+        .text-s{
+        font-size:22px;
+        }
+        }
